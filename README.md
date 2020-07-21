@@ -24,4 +24,4 @@ error = (y_pred[i]-y_actual[i])/abs((y_actual[i-1]-y_actual[i]))
 
 Results :
 
-![alt text](https://github.com/[Pawan300]/[Srock market analysis]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[Pawan300]/[Stock market analysis]/blob/[branch]/image1.jpg?raw=true)
