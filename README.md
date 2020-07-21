@@ -21,3 +21,7 @@ Error rate :
 error = (y_pred[i]-y_actual[i])/abs((y_actual[i-1]-y_actual[i]))
 
 (+)ve and (-)ve error rates are the main metrics
+
+Results :
+
+![alt text](https://github.com/[Pawan300]/[Srock market analysis]/blob/[branch]/image.jpg?raw=true)
